@@ -1,0 +1,6 @@
+to run use below command
+
+npx ts-node .\src\server.ts
+
+-- before run
+-- in src/appDataSource.ts just add true in synchronize in one time then again set to false then run using above command
